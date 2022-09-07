@@ -29,7 +29,7 @@ export const siteConfig = {
   url: "https://roadmap.kontext.app",
   metaImg: "https://raw.githubusercontent.com/better-feedback/better-app/1926cf0a2327e629128f65e57edeee7440294e0b/public/metaTagImg.jpg?token=AF6ZD6A7XI4IS7I3MRLDQSDCTY6QK",
   externalLinks: {
-    docs: "https://github.com/kontext/roadmap#readme",
+    docs: "https://github.com/kontext-app/roadmap#readme",
     discord: "wwwwRFa6aj",
     twitter: "betterdao",
   },
